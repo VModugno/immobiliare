@@ -1,4 +1,4 @@
-# ADM-18-HW4-Group-11
+# Immobiliare Clustering
 
 this script has been written by Michele Fortunato, Hifsa Tehreem, Michael Aichmüller.
 
